@@ -35,7 +35,7 @@ The project serves as an introduction to recommendation engines and a stepping s
   - Common benchmark dataset for recommender systems.  
 - Format: `user_id | item_id | rating | timestamp`
 
-📥 [Download MovieLens Dataset](https://grouplens.org/datasets/movielens/)  
+📥 [Download Movie Dataset]([https://grouplens.org/datasets/movielens/](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset))  
 
 ---
 
